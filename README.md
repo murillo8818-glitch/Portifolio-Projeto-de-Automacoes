@@ -17,13 +17,15 @@ editar suas informaçoes e adicionar automaticamente
 obejto principal e enter o fluxo dos dados 
 
 
-_requisicões web 
+01_requisicões web 
 
-_entrada de dados 
+02_entrada de dados 
 
-_armazenagem 
+03_armazenagem 
 
-_organização de dados 
+04_organização de dados 
 
-_comunucação do frontEnd com o backEnd para todo o processo 
+05_comunucação do frontEnd com o backEnd para todo o processo 
+
+06_(.   )
 
