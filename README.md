@@ -93,9 +93,11 @@ me mostrar resultados possiveis e como eu gostava de solucionar problemas e perc
 Civil da engenharia não me era muito atraente então por conselhos da minhas esposa e amigos decidi aprender a
 tratar dados com python minha esposa e desenvolvedora; desde então me apaixonei por programção com uma simples
 pergunta: " como apenas a diferença de -e eletrons na ultima camada de valencia (eleticidade) pode criar proposições
-logicas? " desde então venho me aprofundando em tratamentos de dados desenvolvimento depaginas web aprendendo 
-com cursos de fundações como Bradesco, Itaul e Google sobre esses assuntos e sem axilio de IAs para escrever meus 
-codigos tenho muito interesse na area e meu proposito como profissional e realmente aprender no meu 
+logicas? " desde então venho me aprofundando em tratamentos de dados, desenvolvimento de paginas web, prosições logicas
+aprendendo com cursos de fundações como Bradesco, Itaul e Google sobre esses assuntos e sem axilio de IAs para escrever meus 
+codigos tenho muito interesse na area e meu proposito como profissional e realmente aprender;
+
+no meu 
 ultimo emprego na FrioLog - Triangulo mineiro que mudou de cidade por isso preferi sair devidos aos meus estudos
 serem presenciais aprendi a magia de como uma pequena equipe bem preparada consegue obter resultados extraordinarios
 eramos apenas 5 onde todos os dias exportavamos 100 toneladas de produtos planejavamos as rotas cadastros (meu setor
