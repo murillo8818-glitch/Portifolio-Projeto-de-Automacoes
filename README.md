@@ -2,6 +2,10 @@
 
 AINDA NÃO FINALIZADO -AINDA NÃO FINALIZADO - AINDA NÃO FINALIZADO
 
+Não esta estruturado de forma correta e pode ter erros ainda estou aprendendo!
+Não esta estruturado de forma correta e pode ter erros ainda estou aprendendo!
+Não esta estruturado de forma correta e pode ter erros ainda estou aprendendo!
+
 Bom dia, gostaria de compartilhar o funcionamento do site que estou desenvolvendo;
 
 Esse aplicativo não e so um baner digital e um site funcional que automtiza processo recebe informção 
