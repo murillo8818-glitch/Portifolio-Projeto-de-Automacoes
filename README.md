@@ -15,7 +15,7 @@ Bom dia, gostaria de compartilhar o funcionamento do site que estou desenvolvend
 Esse aplicativo não e so um baner digital e um site funcional que automtiza processo recebe informção 
 guarda etiqueta e deixa ela simples para o usuario.
 Meu objeto, reforço, e deixar o mais intuitivo possivel para o facil acesso; por mais que hoje tenhamos
-o youtube que responde qualquer duvida aindaexistirão pessoas que vão passar anos das suas vidas 
+o youtube que responde qualquer duvida ainda existirão pessoas que vão passar anos das suas vidas 
 preenchendo planilhas no excel;
 
 
