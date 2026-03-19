@@ -92,8 +92,8 @@ e dados de uma forma mais abstrata aplicando conceitos matematicos; e como inter
 me mostrar resultados possiveis e como eu gostava de solucionar problemas e percebi tambem que a parte 
 Civil da engenharia não me era muito atraente então por conselhos da minhas esposa e amigos decidi aprender a
 tratar dados com python minha esposa e desenvolvedora; desde então me apaixonei por programção com uma simples
-pergunta: " como apenas a diferença de -e eletrons na ultima camada de valencia (eleticidade) pode criar propo
-sições logicas? " desde então venho me aprofundando em tratamentos de dados desenvolvimento depaginas web aprendendo 
+pergunta: " como apenas a diferença de -e eletrons na ultima camada de valencia (eleticidade) pode criar proposições
+logicas? " desde então venho me aprofundando em tratamentos de dados desenvolvimento depaginas web aprendendo 
 com cursos de fundações como Bradesco, Itaul e Google sobre esses assuntos e sem axilio de IAs para escrever meus 
 codigos tenho muito interesse na area e meu proposito como profissional e realmente aprender no meu 
 ultimo emprego na FrioLog - Triangulo mineiro que mudou de cidade por isso preferi sair devidos aos meus estudos
