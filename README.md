@@ -32,7 +32,7 @@ onde o usuario coloca o link do site ou aplicativo e cadastra de forma automatic
 ou manual especificando a caminho dos dados não tem o objetivo de ser tecnicamente coerente
 mais de ajudar qualquer um que seja curioso a automatizar seus prcocessos e GERENCIAR todos
 os usuarios cadastrados com dashbords em power BI com as metricas produzido de forma automa
--tica e  com alterações diadtica; 
+tica e  com alterações diadtica; 
 
 
 criar e apagar objetos (Usuarios)
