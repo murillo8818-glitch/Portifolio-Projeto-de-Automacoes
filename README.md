@@ -53,29 +53,23 @@ processos na criação desse site SPA
 
 
 
-01_requisicões na web
 
 
-02_entrada de dados 
 
+01_entrada de dados 
 
-03_armazenagem 
+02_armazenagem 
 
+03_organização de dados 
 
-04_organização de dados 
+04_Comunicação com o banco de dados e o backend
 
+05_comunucação do frontEnd e o backEnd 
 
-05_comunucação do frontEnd com o backEnd para todo o processo 
+06_suporte ao usuario e explicação do funcionamento 
 
+07_Edição e substituição dos usuarios 
 
-06_suporte ao usuario 
-
-
-07_funcionamento e explicação a novos usarios seu funcionamento 
-
-
-Assim que finalziado sera colocado aqui todo o processamento e todas a etapas do caminho dos dados ate o preenchimento automatico de formularios 
-e a amazenagem e seguraça desses dados 
 
 
 
