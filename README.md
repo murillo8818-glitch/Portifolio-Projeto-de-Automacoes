@@ -9,7 +9,7 @@ Não esta estruturado ainda
 
 
 
-Bom dia, gostaria de compartilhar o funcionamento do site que estou desenvolvendo;
+Funcionamento do site ;
 
 
 Esse site é um sistema funcional que automtiza
