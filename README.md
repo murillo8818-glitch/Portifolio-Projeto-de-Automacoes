@@ -71,10 +71,3 @@ processos na criação desse site SPA
 07_Edição e substituição dos usuarios 
 
 
-
-
-
-; OBRGIDO PELA ATNEÇÃO!! 
-
-Signifca muito pra mim que tenha chegado ate aqui!
-
