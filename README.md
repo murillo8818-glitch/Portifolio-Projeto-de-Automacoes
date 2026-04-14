@@ -12,27 +12,30 @@ Não esta estruturado ainda
 Bom dia, gostaria de compartilhar o funcionamento do site que estou desenvolvendo;
 
 
-Esse site é um sistema funcional que automtiza processo recebe informações 
+Esse site é um sistema funcional que automtiza
+processo recebe informações 
 guarda, organiza e simplifica para o usuario.
-Meu objeto, reforço, e deixar o mais intuitivo possivel para o facil acesso; por mais que hoje tenhamos
-o youtube que responde qualquer duvida ainda existirão pessoas que vão passar anos das suas vidas 
-preenchendo planilhas no excel;
+Meu objeto e deixar o mais intuitivo possivel
+para facilitar o acesso a automações de planilhas
+no excel ou formularios;
 
 
-consiste em raceber informaçoes cadastrais de usuarios, gerenciar e automatizar:
+
+consiste em raceber informaçoes cadastrais de usuarios, Armazenar e facilitar a Automação:
 
 
-sendo elas separdas no SQL + JAVA + JS (Backend)
-E o front end e o HTML + CSS + JS (Frontend)
+
+Sendo organizado no NEXT SQL + JS + REACT (Backend)
+E o front end e o HTML + CSS + JS + REACT (Frontend)
 
 
 
 Afim de pegar essas informaçoes para que possamos prencer formularios de forma mais pratica
 onde o usuario coloca o link do site ou aplicativo e cadastra de forma automatica com (IA) 
-ou manual especificando a caminho dos dados não tem o objetivo de ser tecnicamente coerente
-mais de ajudar qualquer um que seja curioso a automatizar seus prcocessos e GERENCIAR todos
-os usuarios cadastrados com dashbords em power BI com as metricas produzido de forma automa
-tica e  com alterações diadtica; 
+ou manualmente especificando a caminho dos dados tem o objetivo de ser mais pratico para   
+ajudar qualquer um a automatizar seus prcocessos e GERENCIAR todos
+os usuarios cadastrados com metricas em power BI e com dashbords produzido de forma automa
+tica e com alterações facilitadas; 
 
 
 criar e apagar objetos (Usuarios)
@@ -42,8 +45,11 @@ automaticamente
 
 
 obejto principal e entender o fluxo dos dados 
-Redes funcçoes requisições web e todos os 
-processos na criação desse site 
+Redes funcçoes requisições web, funcionamento do armazenamento 
+dentro do banco de dados ligações diretas com o codigo escrito 
+e todos os demais  
+processos na criação desse site SPA 
+
 
 
 
