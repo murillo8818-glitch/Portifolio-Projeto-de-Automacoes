@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "axios": "^1.15.0",
+    "prisma": "^7.7.0"
+  }
+}

@@ -8,7 +8,7 @@
 /*                            BODY ALL SITE                             */ 
 /*----------------------------------------------------------------------*/
 
-:root
+.App
     {color: white;
     background-color: rgb(7, 7, 7);
     display: flex;
@@ -114,16 +114,16 @@ header
 main
     {justify-content: space-between;}
 
-.mainAl 
+.mainCont 
     {gap: 30px;
-    text-align: left; }
+    text-align: center; }
 
-.mainAl p
+.mainCont p
     {margin-top: 20px;
     font-size: 21px;
     margin-bottom: 70px;}
 
-.mainAl h2
+.mainCont h2
     {margin-top: 0px;
     font-size: 30px;}
 
@@ -150,7 +150,7 @@ main
     position: absolute;
     z-index: 1 ;
     padding-left: calc(82px + 20);}
-
+        
 .container li
     {background-color: rgb(14, 14, 14);
     border-radius: 15px;
@@ -161,7 +161,7 @@ main
     {color: rgb(100, 220, 160);}
 
 /*----------------------------------------------------------------------*/
-/*                           NAV BAR            V                       */ 
+/*                           NAV BAR                                    */ 
 /*----------------------------------------------------------------------*/
 
 nav a:hover
@@ -171,9 +171,8 @@ nav a:hover
     {display:flex;
     justify-content: center;
     list-style-type: none;
-    padding: 0px 50px ;
+    padding: 10px 50px ;
     align-items: center;
-    display: inline-block;
     text-align: center;}
 
 /*----------------------------------------------------------------------*/

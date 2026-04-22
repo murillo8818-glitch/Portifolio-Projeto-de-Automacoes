@@ -7,13 +7,14 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" );
 
 
-*{
+*{ 
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Signika negative';
 }
 
-:root{
+.App{
     display: flex;
     min-height: 100vh;  
 

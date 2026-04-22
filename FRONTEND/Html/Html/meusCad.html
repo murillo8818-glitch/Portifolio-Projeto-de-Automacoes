@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Css/meusCad.css">
+</head>
+
+<body>
+<div class = 'container'>
+    <div key={users.id} class='card'>
+        <div>
+            <p>Nome: <span>{usuariosdb.firstname}</span></p>
+            <p>Sobre Nome: <span>{usuariosdb.sobrenome}</span></p>
+            <p>Email: <span>{usuariosdb.email}</span></p>
+            <p>Numero: <span>{usuariosdb.celular}</span></p>
+            <p>Senha: <span>{usuariosdb.senha}</span></p>
+            <p>confitm Senha: <span>{usuariosdb.confirmsenha}</span></p>
+        </div>
+        <button style='background-color: transparent; border: none; cursor: pointer;' onclick="deleteUser(123)">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2"
+                strokeLinecap="round" strokeLinejoin="round">
+                <polyline points="3 6 5 6 21 6"></polyline>
+                <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+                <line x1="10" y1="11" x2="10" y2="17"></line>
+                <line x1="14" y1="11" x2="14" y2="17"></line>
+            </svg>
+        </button>
+    </div>
+</div>
+<script src="Js/openSide.JS"></script>
+</body>
+
+</html>
