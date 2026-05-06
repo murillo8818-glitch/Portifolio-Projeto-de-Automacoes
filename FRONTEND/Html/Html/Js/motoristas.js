@@ -61,11 +61,11 @@ async function cadastUser(event) {
             confirmsenha: inputConfirm.value
         });
 
-        alert("Usuário Cadastrado ");
+        alert("(((((((((((  Usuário Cadastrado )))))))))");
         
 
         inputFirstName.value = '';
-        ipnutLastName.value = '';
+        inputLastName.value = '';
         inputEmail.value = '';
         inputNumber.value = '';
         inputPassword.value = '';
@@ -73,7 +73,7 @@ async function cadastUser(event) {
 
     } catch (err) {
         console.error("Erro ao cadastrar:", err);
-        alert("Erro ao cadastrar DESC.");
+       
     }
 }
 

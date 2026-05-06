@@ -134,13 +134,11 @@ app.post('/usuariosdb', async (req, res) => {
 
 
 
-
-
 //              Buscar 
 
 app.get('/usuariosdb', async (req,res)=> {
     // var temporaria
-    let usuariosdb = []  
+    let  user = []  
 
     // condição ( passsamos os parametro da URL tipo usaurios?nome=algumacoisa )
     if (req.query){
